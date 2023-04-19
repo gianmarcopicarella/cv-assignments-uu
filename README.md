@@ -1,15 +1,14 @@
 # Computer Vision 22/23 course assignments
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
-<table>
 
-    <tr><td>Content</td><td>Content</td><tr>
-</table>
+<img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg" style="float:left;" width="300"> 
 
+### [Camera Geometric Calibration](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration)
 
-|||
+|Preview|Title|
 | :---        |    :----:   |
-| <img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg" width="300">      | ### [Camera Geometric Calibration](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration)    |
+|      |     |
 
 | <img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/voxel_3d_reconstruction.gif" width="300"/>   | Text        |
 | <img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/color_based_voxel_labeling.gif" width="300"/>   | Text        |
