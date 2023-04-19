@@ -1,5 +1,5 @@
 # Computer Vision 22/23 course assignments
-#### Additional info
+#### Additional Info
 You will find a **report.pdf** document detailing my algorithms and the corresponding implementations in each assignment's folder.
 
 ---
