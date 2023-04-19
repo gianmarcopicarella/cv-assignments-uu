@@ -22,14 +22,14 @@ You will find a **report.pdf** document detailing my algorithms and the correspo
 
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/fashion_mnist.jpg" width="220"/>
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/fashion_mnist.jpg" width="240"/>
 <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/conv_neural_networks">Convolutional Neural Networks</a></h3>
 In this assignment, you will get hands-on experience in training and validating CNN models, and how to report the performance of the model. It acts as the foundation for the final assignment.
 <br clear="left"/>
 
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/action_recognition.jpg" width="220"/>
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/action_recognition.jpg" width="240"/>
 <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/action_recognition">Action Recognition</a></h3>
 The aim of this assignment is to classify actions (1) in still images and (2) in videos with CNNs. The focus is on transfer learning, with the additional use of optical flow and combination of CNN outputs. There are no constraints in terms of the number of layers or the type of the architecture. Again, we’re not looking for the best performance, although you should aim at passing the baseline accuracy scores for each task.
 <br clear="left"/>
