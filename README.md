@@ -2,16 +2,9 @@
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
 <style>
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-    }
-* html .clearfix             { zoom: 1; }
-*:first-child+html .clearfix { zoom: 1; }
+mark{
+    color:red;
+}
 </style>
 
 <div>
