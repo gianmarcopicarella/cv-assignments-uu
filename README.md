@@ -1,4 +1,5 @@
-# Computer Vision 22/23 (@UtrechtUniversity) course assignments
+# Computer Vision 22/23 course assignments
+## @UtrechtUniversity
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
 ### [Camera Geometric Calibration](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration)
