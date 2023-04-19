@@ -1,8 +1,7 @@
 # Computer Vision 22/23 course assignments
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
-
-![image](https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg){: style="float: left;width=300"}
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg" width="300">
 
 ### [Camera Geometric Calibration](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration)
 
