@@ -2,7 +2,7 @@
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
 
-![Assignment media 1](https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg)
+![Assignment media 1](https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/cam_calibr.jpg)
 ### Title
 
     
