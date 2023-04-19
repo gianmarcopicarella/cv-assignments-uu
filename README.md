@@ -17,7 +17,7 @@ You will find a **report.pdf** document detailing my algorithms and the correspo
 ---
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/color-label.jpg" width="240"> <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/color-based_voxel_labeling">Color-Based Voxel Labeling</a></h3>
-<p align="justify">The main goals of this assignment is to (1) make a color model for each person offline and (2) label the voxels based on this color model in subsequent frames</p>
+<p align="justify">The main goals of this assignment is to (1) make a color model for each person offline and (2) label the voxels based on this color model in subsequent frames.</p>
 <br clear="left"/>
 
 ---
