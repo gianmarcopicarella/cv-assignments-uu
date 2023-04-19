@@ -1,6 +1,7 @@
 # Computer Vision 22/23 course assignments
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
+| Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
