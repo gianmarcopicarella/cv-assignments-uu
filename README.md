@@ -1,7 +1,7 @@
 # Computer Vision 22/23 course assignments
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
-| Syntax      | Description | Test Text     |
+|       |  |      |
 | :---        |    :----:   |          ---: |
 | <img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg" width="300">      | Title       | Here's this   |
 | <img src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/camera_calibration.jpg" width="300">   | Text        | And more      |
