@@ -2,7 +2,6 @@
 Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
 
 <style>
-/* new clearfix */
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -11,8 +10,8 @@ Each assignment folder contains a **report.pdf** file which explains my solution
     clear: both;
     height: 0;
     }
-* html .clearfix             { zoom: 1; } /* IE6 */
-*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+* html .clearfix             { zoom: 1; }
+*:first-child+html .clearfix { zoom: 1; }
 </style>
 
 <div>
