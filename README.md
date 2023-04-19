@@ -1,7 +1,7 @@
 # Computer Vision 22/23 course assignments
 
 You can find a **report.pdf** document detailing my algorithms and the corresponding implementations in each assignment's folder.
-A visual result for <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=w_70cBssigg">assignment 2</a> and [assignment 3](https://www.youtube.com/watch?v=2K0LduuL0rc) can be found on Youtube.
+A visual result for [assignment 2](https://www.youtube.com/watch?v=w_70cBssigg) and [assignment 3](https://www.youtube.com/watch?v=2K0LduuL0rc) can be found on Youtube.
 
 ---
 
