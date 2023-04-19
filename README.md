@@ -1,6 +1,9 @@
 # Computer Vision 22/23 course assignments
 
 You will find a **report.pdf** document detailing my algorithms and the corresponding implementations in each assignment's folder.
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/color_based_voxel_labeling.gif" width="240"> 
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/voxel_3d_reconstruction.gif" width="240"> 
+
 
 ---
 
