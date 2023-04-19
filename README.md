@@ -14,11 +14,11 @@ Each assignment folder contains a **report.pdf** file which explains my solution
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/convolutional_neural_networks.jpg" width="300"/>
-### [Convolutional Neural Networks](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/conv_neural_networks)
+<h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/conv_neural_networks">Convolutional Neural Networks</a></h3>
 Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/action_recognition.jpg" width="300"/>
-### [Action Recognition](https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/action_recognition)
+<h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/action_recognition">Action Recognition</a></h3>
 Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.
 <br clear="left"/>
