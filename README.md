@@ -1,5 +1,5 @@
 # Computer Vision 22/23 course assignments
-Each assignment folder contains a **report.pdf** file which explains my solution and implementation in detail.
+You will find a report.pdf document detailing my algorithms and the corresponding implementations in each assignment's folder.
 
 ---
 
