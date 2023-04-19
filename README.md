@@ -9,19 +9,19 @@ Each assignment folder contains a **report.pdf** file which explains my solution
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/3d_reconstruction.jpg" width="200"> <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/voxel-based_3d_reconstruction">Voxel-Based 3D Reconstruction</a></h3>
-<p align="justify">Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.</p>
+<p align="justify">The main goals of this assignment are (1) to calibrate four cameras (intrinsics and extrinsics), (2) to do background subtraction for each view, and (3) to implement the silhouette-based voxel reconstruction algorithm.</p>
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/color-label.jpg" width="200"> <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/color-based_voxel_labeling">Color-Based Voxel Labeling</a></h3>
-<p align="justify">Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.</p>
+<p align="justify">The main goals of this assignment is to (1) make a color model for each person offline and (2) label the voxels based on this color model in subsequent frames</p>
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/fashion_mnist.jpg" width="200"/>
 <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/conv_neural_networks">Convolutional Neural Networks</a></h3>
-Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.
+In this assignment, you will get hands-on experience in training and validating CNN models, and how to report the performance of the model. It acts as the foundation for the final assignment.
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/action_recognition.jpg" width="200"/>
 <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/action_recognition">Action Recognition</a></h3>
-Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.
+The aim of this assignment is to classify actions (1) in still images and (2) in videos with CNNs. The focus is on transfer learning, with the additional use of optical flow and combination of CNN outputs. There are no constraints in terms of the number of layers or the type of the architecture. Again, we’re not looking for the best performance, although you should aim at passing the baseline accuracy scores for each task.
 <br clear="left"/>
