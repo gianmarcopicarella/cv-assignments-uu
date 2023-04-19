@@ -5,7 +5,7 @@ Each assignment folder contains a **report.pdf** file which explains my solution
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/cam_calibr.jpg" width="200"> 
 <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration">Camera Geometric Calibration</a></h3>
-<p align="justify">Geometric camera calibration, also known as camera intrinsics calibration or multi-camera calibration, is the process of estimating the parameters required to relate (2D) points in a camera’s image plane with (3D) points in the world scene the camera is viewing. With a calibrated camera, each point on a sensor translates into a ray emanating into the scene, providing directional information about points in a scene.</p>
+<p align="justify">The main goals of this assignment are (1) to implement a camera calibration procedure (intrinsics and extrinsics), (2) to show how the calibration data can be used in real time for basic AR (Augmented Reality).</p>
 <br clear="left"/>
 
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/3d_reconstruction.jpg" width="200"> <h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/voxel-based_3d_reconstruction">Voxel-Based 3D Reconstruction</a></h3>
