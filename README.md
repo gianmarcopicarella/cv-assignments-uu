@@ -4,14 +4,14 @@ You can find a **report.pdf** document detailing my algorithms and the correspon
 A visual result for [assignment 2](https://www.youtube.com/watch?v=w_70cBssigg) and [assignment 3](https://www.youtube.com/watch?v=2K0LduuL0rc) can be found on Youtube.
 
 ---
-<h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration">Camera Geometric Calibration</a></h3>
+<h3>1) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration">Camera Geometric Calibration</a></h3>
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/cam_calibr.jpg" width="240"> 
 <p align="justify">The main goals of this assignment are (1) to implement a camera calibration procedure (intrinsics and extrinsics), (2) to show how the calibration data can be used in real time for basic AR (Augmented Reality).</p>
 <br clear="left"/>
 
 ---
 
-<h3><a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/voxel-based_3d_reconstruction">Voxel-Based 3D Reconstruction</a></h3>
+<h3>2) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/voxel-based_3d_reconstruction">Voxel-Based 3D Reconstruction</a></h3>
 <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/3d_reconstruction.jpg" width="240"> 
 <p align="justify">The main goals of this assignment are (1) to calibrate four cameras (intrinsics and extrinsics), (2) to do background subtraction for each view, and (3) to implement the silhouette-based voxel reconstruction algorithm.</p>
 <br clear="left"/>
