@@ -40,5 +40,3 @@ A visual result for [assignment 2](https://www.youtube.com/watch?v=w_70cBssigg) 
 &nbsp;
 <p align="justify">The aim of this assignment is to classify actions (1) in still images and (2) in videos with CNNs. The focus is on transfer learning, with the additional use of optical flow and combination of CNN outputs. There are no constraints in terms of the number of layers or the type of the architecture. Again, we’re not looking for the best performance, although you should aim at passing the baseline accuracy scores for each task.</p>
 <br clear="left"/>
-
----
