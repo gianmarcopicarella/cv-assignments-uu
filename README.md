@@ -4,12 +4,8 @@ You can find a **report.pdf** document detailing my algorithms and the correspon
 A visual result for [assignment 2](https://www.youtube.com/watch?v=w_70cBssigg) and [assignment 3](https://www.youtube.com/watch?v=2K0LduuL0rc) can be found on Youtube.
 
 <h3>1) <a target="_blank" rel="noopener noreferrer" href="https://github.com/gianmarcopicarella/cv-assignments-uu/tree/main/camera_geometric_calibration">Camera Geometric Calibration</a></h3>
-<div>
-  <img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/cam_calibr.jpg" width="330">
-  &nbsp;
-  &nbsp;
-</div>
-
+<img align="left" src="https://raw.githubusercontent.com/gianmarcopicarella/cv-assignments-uu/main/readme/cam_calibr.jpg" width="330">
+&nbsp;
 <p align="justify">The main goals of this assignment are (1) to implement a camera calibration procedure (intrinsics and extrinsics), (2) to show how the calibration data can be used in real time for basic AR (Augmented Reality).</p>
 <br clear="left"/>
 
